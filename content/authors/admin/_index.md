@@ -1,6 +1,6 @@
 ---
-title: Hrishikesh Padhye (हृषिकेश पाध्ये)
-role: Professor of Artificial Intelligence
+title: Hrishikesh Padhye हृषिकेश पाध्ये
+role: Participant in PGDM Business Management
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -30,19 +30,17 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: S. P. Jain Institute of Management and Research (SPJIMR)
+    url: https://www.spjimr.org/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Business Administration
+      institution: S. P. Jain Institute of Management and Research (SPJIMR), Mumbai
+      year: ""
+    - course: B.E. Computer Engineering
+      institution: SCTR's Pune Institute of Computer Technology (affiliated to
+        Savitribai Phule Pune University)
+      year: ""
 superuser: true
 status:
   icon: ☕️
