@@ -1,31 +1,13 @@
 ---
 title: Hrishikesh Padhye हृषिकेश पाध्ये
 role: Participant in PGDM Business Management
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+avatar_filename: passport_sized.jpg
+bio: ""
+interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/hrishikesh-padhye/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -36,19 +18,19 @@ education:
   courses:
     - course: Master of Business Administration
       institution: S. P. Jain Institute of Management and Research (SPJIMR), Mumbai
-      year: ""
+      year: 2025
     - course: B.E. Computer Engineering
       institution: SCTR's Pune Institute of Computer Technology (affiliated to
         Savitribai Phule Pune University)
-      year: ""
+      year: 2021
 superuser: true
 status:
   icon: ☕️
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: hrishikesh.padhye@gmail.com
 ---
+H﻿rishikesh Padhye is a participant of the PGDM Business Management program at S. P. Jain Institute of Management and Research, Mumbai. H﻿rishikesh has formerly served in the Indian Air Force as an officer trainee of the Flying (Pilot) branch. He is trained on various military administration traits like planning & organizing, leadership, time and resource management, group planning and mental endurance. Before joining the IAF he has also worked in Barclays as a Graduate Analyst (BA3). 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
