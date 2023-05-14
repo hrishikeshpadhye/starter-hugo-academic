@@ -1,7 +1,7 @@
 ---
 title: Hrishikesh Padhye हृषिकेश पाध्ये
 role: Participant in PGDM Business Management
-avatar_filename: passport_sized.jpg
+avatar_filename: ""
 bio: ""
 interests: []
 social:
