@@ -13,9 +13,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hrishikesh-padhye/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 organizations:
   - name: S. P. Jain Institute of Management and Research (SPJIMR)
     url: https://www.spjimr.org/

@@ -78,30 +78,44 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
+          date_end: 
+          date_start: '2022-11-27' 
+          description: 'Scored 98.39 percentile, 99.57 percentile in DI&LR'
+          organization: CAT 2022
+          organization_url: https://iimcat.ac.in
+          title: CAT 2022
+          url: 
+        
+        - certificate_url: https://afcat.cdac.in/AFCAT/assets/images/news/jan22/first_merit_list-JAN22.pdf
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
+          date_start: '2022-01-01'
+          description: 'I scored 231/300 in the written exam. After a 6-day long interview process involving
+Personal Interviews, Group Tasks, Psychological Tests, Physical tests and Psychomotor Tests, I was recommended by 2 AFSB Mysore for the Flying (Pilot) branch of the IAF.'
+          organization: Indian Air Force
+          organization_url: https://indianairforce.nic.in/
+          title: 'AIR 17 out 200k+ candidates in AFCAT 1 2021.'
+          url: 
+
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          date_start: '2022-01-01'
+          description: 'Successfully cleared Combined Defence Services Examination (CDS) conducted by UPSC for selection of officer trainees into defence forces. Managed to clear the cut-off for Indian Air Force twice [CDS 2 2020](https://www.upsc.gov.in/sites/default/files/WR-CDS-II-20-NameList-Engl-161220R.pdf) and [CDS 1 2021](https://www.upsc.gov.in/sites/default/files/WR-CDS-I-21-NameList-230321-Engl.pdf)'
+          organization: Union Public Service Commission
+          organization_url: https://www.upsc.gov.in/
+          title: 'Cleared Combined Defence Services Examination (CDS) TWICE'
+          url: 
+
+
+        - certificate_url: 
+          date_end: 
+          date_start: '2021-06-01'
+          description: 'Secured 9.08 CGPA in B.E. Computer Engineering course at Pune Institute of Computer Technology (affiliated to Savitribai Phule Pune University)'
+          organization: Pune Institute of Computer Technology, Pune.
+          organization_url: https://pict.edu
+          title: '9.08 CGPA in B.E. Computer Engineering'
+          url: 
+
     design:
       columns: '2'
   - block: collection
@@ -242,13 +256,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree: 
-          id: hrishikesh.padhye@gmail.com
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+    #  form:
+    #    provider: netlify
+    #    formspree: 
+    #      id: hrishikesh.padhye@gmail.com
+    #    netlify:
+    #      # Enable CAPTCHA challenge to reduce spam?
+    #      captcha: true
     design:
       columns: '2'
 ---
